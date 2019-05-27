@@ -1,12 +1,12 @@
-1. Clone this repo
+### 1. Clone this repo
 
-2. Install dependancies
+### 2. Install dependencies
 
 ```
 yarn
 ```
 
-3. Run app
+### 3. Run app
 
 ```
 yarn start
